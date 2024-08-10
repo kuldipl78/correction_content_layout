@@ -1,0 +1,34 @@
+.black-theme {
+  background-color: rgb(89, 87, 87);
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  border: 2px black;
+}
+.white-hand-theme {
+  width: 20px;
+  height: 20px;
+}
+.light-hand-theme {
+  width: 20px;
+  height: 20px;
+}
+.ul-items {
+  display: flex;
+  flex-direction: row;
+}
+.light-thee {
+  background-color: white;
+  color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  border: 2px black;
+}
+.list-item {
+  list-style-type: none;
+  margin-left: 10px;
+}
